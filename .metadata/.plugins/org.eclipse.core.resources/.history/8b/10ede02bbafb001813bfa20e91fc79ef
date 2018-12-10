@@ -1,0 +1,7 @@
+package model;
+
+public class LignePanier {
+	private Produit produit; 
+	private int quantite;
+
+}

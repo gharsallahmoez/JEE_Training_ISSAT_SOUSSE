@@ -1,0 +1,10 @@
+package model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Categorie {
+	private int id ;
+	private String description;
+
+}

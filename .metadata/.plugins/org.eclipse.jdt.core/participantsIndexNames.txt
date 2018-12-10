@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\Formation\JEE\pratique\formation\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1400282678.index
+\FirstProject\src
+D:\Formation\JEE\pratique\ISSAT_sousse_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1400282678.index
+\FirstProject\src
+D:\Formation\JEE\pratique\ISSAT_sousse_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3378000709.index
+\boutique\src
